@@ -129,5 +129,5 @@ double dz(double z, double k) {
     } else {
         printf("Результат: Точка (%.2lf, %.2lf) НЕ попадает в заштрихованную область.\n", z, k);
     }
-    return 0.0;
+    return 0;
 }
